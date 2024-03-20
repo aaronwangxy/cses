@@ -1,1 +1,1 @@
-# cses
+# CSES solutions
