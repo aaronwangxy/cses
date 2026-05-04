@@ -5,6 +5,7 @@ using namespace std;
 #define vt vector
 
 const ll MOD = 1e9 + 7;
+const int dx[8] = {1, 0, -1, 0, 1, 1, -1, -1}, dy[8] = {0, 1, 0, -1, -1, 1, -1, 1};
 
 void solve() {
     
